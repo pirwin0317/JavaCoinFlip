@@ -1,2 +1,2 @@
 # JavaCoinFlip
-Coin flip game written ini Java
+Coin flip game written in Java
